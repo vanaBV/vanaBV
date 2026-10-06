@@ -5,29 +5,53 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=15&pause=1000&color=4DC934&center=true&vCenter=true&width=480&lines=Making+games+one+frame+at+a+time...;Roblox+FPS+%7C+Indie+Dev;Press+START+to+continue..." alt="typing"/>
+  <a href="https://vanabv.github.io">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20PORTFOLIO-vanabv.github.io-FFE600?style=for-the-badge&logoColor=090909&labelColor=090909" alt="Play Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://vanabv.github.io/blog/">
+    <img src="https://img.shields.io/badge/%F0%9F%93%9D%20GAME%20REVIEWS-Review%20Log-5BE7FF?style=for-the-badge&logoColor=090909&labelColor=090909" alt="Game Review Log"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=15&pause=1000&color=4DC934&center=true&vCenter=true&width=520&lines=Making+games+one+frame+at+a+time...;Roblox+Tactical+FPS+%7C+Indie+Dev;Press+START+or+Insert+Coin+x10..." alt="typing"/>
+</p>
+
+---
+
+### 👾 Interactive Web Portfolio & Review Log
+
+> 🌐 **Live Website**: [https://vanabv.github.io](https://vanabv.github.io)  
+> 메이플스토리 UI & 레트로 아케이드 감성의 개인 포트폴리오 웹사이트입니다.
+> - **🪙 10-Coin Easter Egg**: `PLAY NOW` 버튼을 10번 누르면 `VANA INVADERS '26` 스페이스 인베이더 미니게임이 열립니다.
+> - **📝 Game Review Log**: 플레이한 게임 기획 분석 & 포스트모템 아카이브.
+> - **🗃️ Personal Archive**: 취미(경마·음악), 3D 모델(Blender), 활동 퀘스트 로그를 윈도우 창으로 탐색 가능.
 
 ---
 
 ### 🎮 About
 
 ```
-▶  게임 만드는 개발자
-▶  로블록스 FPS 게임 제작 중
-▶  인디게임 기획 & 개발 입문
+▶  게임 만드는 개발자 (안서진 / vanaBV)
+▶  로블록스 택티컬 FPS 게임 'XRUNNERS' 제작 중
+▶  인디게임 기획, 3D 뷰모델 & 시스템 개발
 ```
 
-### 🕹️ Now Playing
+### 🕹️ Now Playing / Projects
 
-| 프로젝트 | 설명 | 상태 |
-|---|---|---|
-| [Xrunners](https://github.com/vanaBV/Xrunners) | Roblox Tactical FPS | `🔨 개발 중` |
+| 프로젝트 | 설명 | 플랫폼 | 상태 |
+|---|---|---|---|
+| [Xrunners](https://github.com/vanaBV/Xrunners) | Roblox Tactical FPS (로비 시스템 & 무기 뷰모델) | Roblox / TS | `🔨 개발 중` |
+| [WALLRUNNING OBBY](https://www.roblox.com/share?code=5d6bfd0da560414db35498116fe1d37d&type=ExperienceDetails&stamp=1747768098406) | 월러닝 물리 판정 파쿠르 오비 | Roblox Studio | `✅ 서비스 중` |
+| [vanabv.github.io](https://vanabv.github.io) | 레트로 픽셀 포트폴리오 & 게임 리뷰 블로그 | Web (HTML/CSS/JS) | `✅ 배포 완료` |
 
 ### 🛠️ Stack
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
