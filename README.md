@@ -23,18 +23,18 @@
 ### 👾 Interactive Web Portfolio & Review Log
 
 > 🌐 **Live Website**: [https://vanabv.github.io](https://vanabv.github.io)  
-> 메이플스토리 UI & 레트로 아케이드 감성의 개인 포트폴리오 웹사이트입니다.
-> - **🪙 10-Coin Easter Egg**: `PLAY NOW` 버튼을 10번 누르면 `VANA INVADERS '26` 스페이스 인베이더 미니게임이 열립니다.
-> - **📝 Game Review Log**: 플레이한 게임 기획 분석 & 포스트모템 아카이브.
-> - **🗃️ Personal Archive**: 취미(경마·음악), 3D 모델(Blender), 활동 퀘스트 로그를 윈도우 창으로 탐색 가능.
+> - vana's personal website
+> - **🪙 10-Coin Easter Egg**
+> - **📝 Game Review Log**
+> - **🗃️ Personal Archive**: I LOVE KEIBAAAA!!!!!!!!!
 
 ---
 
 ### 🎮 About
 
 ```
-▶  게임 만드는 개발자 (안서진 / vanaBV)
-▶  로블록스 택티컬 FPS 게임 'XRUNNERS' 제작 중
+▶  게임 만드는 기획자 (안서진 / vanaBV)
+▶  로블록스 택티컬 FPS 게임 제작중
 ▶  인디게임 기획, 3D 뷰모델 & 시스템 개발
 ```
 
